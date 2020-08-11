@@ -7,7 +7,9 @@ Selecionamos la excel (Sales_data).
 Desde el asistente guardamos todo el documento.
 Elejimos el grafico , nos va a dar a elejor entre los mas comunes en nuestro caso escojemos barras.
 En la seccion de datos escogemos la dimensiones y las expresiones:
+
 1.1 SalesChanneles (en dimensiones)
+
 1.2 UnitSould (en expresiones)
 
 
@@ -73,4 +75,4 @@ Cambiamos la expresion `SUM({Unidades Vendidas})` a  `SUM({<[Año]={2011}>}{Unid
 
 
 ### Resultado Final 
-![Resultado final](https://github.com/ravamo/qlikview_Iniciacion/tree/doc/SegundoCuadroMando/blob/doc/assert/CuadroMando1.png?raw=true)
+![Resultado final](https://github.com/ravamo/qlikview_Iniciacion/blob/doc/PrimerCuadroMando/assert/CuadroMando1.png?raw=true)
