@@ -70,3 +70,7 @@ Vamos a las dimensiones y creamos un grupo de tipo cliclico con:
 * Pais
 * Producto
 Cambiamos la expresion `SUM({Unidades Vendidas})` a  `SUM({<[Año]={2011}>}{Unidades Vendidas}) `  repetimos lo mismo para el 2012
+
+
+### Resultado Final 
+![Resultado final](https://github.com/ravamo/qlikview_Iniciacion/tree/doc/SegundoCuadroMando/blob/doc/assert/CuadroMando1.png?raw=true)

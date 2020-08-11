@@ -9,16 +9,23 @@ Repositorio del material del curso de iniciaciòn de QlickView para la **SPEC**.
 3.1  Operativo
 3.2  Analítico
 3.3  Táctico
-1. Importar datos a QlikView
-1. Crear y modificar gráficos en QlikView
-1. Escribir expresiones en QlikView
-1. Escribir código básico en el Editor de Script
-1. Escribir expresiones usando Set Analysis
+4. Importar datos a QlikView
+5. Crear y modificar gráficos en QlikView
+6. Escribir expresiones en QlikView
+7. Escribir código básico en el Editor de Script
+8. Escribir expresiones usando Set Analysis
 ### Primer cuadro de mando
 En este cuadro de mando vamos a ver importaciòn basica guida por el workflow de qlikview. Y veremos el uso de set analysis 
 ### Segundo cuadro de mando
 En este cuadro de mando vamos a ver como importar distintas fuentes via script así como funciones  basicas del script para correguir errores.
 ### Tercer cuadro de mando
+Vermos todo lo relacioando con el backoffice de la herramienta como carga de datos atra ves de una base de datos con multiples tablas y hoja excel con dos pestañas, dentro de los tipos de uniones veremos estas dos :
+* Mapper
+* Joins
+
+También veremos cargar datos de manera **Resident**. Y abordaremos la seguridad.
+
+
 
 
 
